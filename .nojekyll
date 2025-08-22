@@ -1,0 +1,3 @@
+git add index.html .nojekyll
+git commit -m "GH Pages root with verify meta"
+git push
